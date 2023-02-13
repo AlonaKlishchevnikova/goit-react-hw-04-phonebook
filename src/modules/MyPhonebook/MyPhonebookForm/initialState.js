@@ -1,6 +1,6 @@
-const inititalState = {
+const initialState = {
         name: '',
         number: '',
     }
 
-export default inititalState;
+export default initialState;
